@@ -10,8 +10,7 @@ const ChatOptionsCard: React.FC = () => {
   };
 
   const handleEmployeeChatClick = () => {
-    // Add your logic for Employee Chat here
-    console.log('Employee Chat clicked');
+    window.location.href = 'https://flowise-render-test-tpi3.onrender.com/chatbot/a0cc1c42-a8df-47ae-825c-cb10fee4e326';
   };
 
   return (
