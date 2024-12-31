@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ChatOptionsCard from "@/components/ChatOptionsCard";
 import Taskbar from "@/components/taskbar";
 
